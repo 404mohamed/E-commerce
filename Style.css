@@ -1,0 +1,16 @@
+body{
+    font-family: cursive;
+    height: 00px;
+}
+.progress-bar{
+    transition:3s;
+    
+}
+
+.slider-div{
+    background: url(./img/testimonials-bg.jpg) center center/cover;
+
+}
+.carouselExampleCaptions{
+    height: 350px; ;
+}
